@@ -1,0 +1,15 @@
+# Backend
+backend/node_modules/
+backend/.convex/
+backend/.env.local
+
+# Flutter / Dart
+frontend/studymate/.dart_tool/
+frontend/studymate/build/
+frontend/studymate/.flutter-plugins
+frontend/studymate/.flutter-plugins-dependencies
+
+# App / IDE metadata
+.freebuff/
+*.iml
+.idea/
